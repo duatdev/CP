@@ -22,6 +22,4 @@
 ![Case 3](case3.png)
 
 - **Souvlakity** has only one move: give away its only `1`, which is forced.
-- **Kalamakity** can give back any of its `0`s. The final position always has exactly one `1`, so the score is `idx - idx = 0`.<img width="648" height="258" alt="case2" src="https://github.com/user-attachments/assets/4abf2631-8361-4d9e-bbb3-1bafbe23c25c" />
-<img width="558" height="236" alt="case3" src="https://github.com/user-attachments/assets/6a51d430-620d-43b1-af18-e2b351e56acc" />
-<img width="547" height="244" alt="case1" src="https://github.com/user-attachments/assets/fefa8cce-dd76-4753-9954-b4698ff91cf3" />
+- **Kalamakity** can give back any of its `0`s. The final position always has exactly one `1`, so the score is `idx - idx = 0`.
